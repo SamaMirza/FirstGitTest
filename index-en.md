@@ -14,7 +14,7 @@ language: en
 	<div class="row">
 		<div class="col-md-7 col-lg-8">
 			<p>The page templates and design patterns below comprise a reference implementation of the <a href="https://design.canada.ca">Canada.ca design system</a>, including the mandatory requirement of the Content and Information Architecture (C&amp;IA) Specification. Government of Canada departments and agencies can contribute additional patterns and templates via <a href="https://github.com/wet-boew/GCWeb">GCWeb github repository</a>.</p>
-			<p>	adding text as a test	</p>
+			<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores tempora, placeat cum commodi sint voluptatem impedit. Consequatur, culpa odit nesciunt expedita, animi repellendus ipsa ullam architecto libero assumenda nostrum consequuntur!    </p>
 		</div>
 		<div class="col-xs-12 col-md-auto pull-right">
 			<p><a href="https://github.com/wet-boew/GCWeb/archive/v10.5.0.zip" class="btn btn-primary">Download GCWeb theme <strong>v10.5.0</strong></a><br />
