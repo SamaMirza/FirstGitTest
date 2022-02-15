@@ -10,7 +10,7 @@ language: en
 {::nomarkdown}
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous"/>
 <div class="container">
-	<h1 id="wb-cont" property="name">Hello World</h1>
+	<h1 id="wb-cont" property="name">Hello World 2</h1>
 	<div class="row">
 		<div class="col-md-7 col-lg-8">
 			<p>The page templates and design patterns below comprise a reference implementation of the <a href="https://design.canada.ca">Canada.ca design system</a>, including the mandatory requirement of the Content and Information Architecture (C&amp;IA) Specification. Government of Canada departments and agencies can contribute additional patterns and templates via <a href="https://github.com/wet-boew/GCWeb">GCWeb github repository</a>.</p>
